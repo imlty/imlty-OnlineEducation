@@ -1,0 +1,6 @@
+[submodule "online-education-web"]
+	path = online-education-web
+	url = https://github.com/imlty/online-education-web.git
+[submodule "online-education-server"]
+	path = online-education-server
+	url = https://github.com/imlty/online-education-server.git
